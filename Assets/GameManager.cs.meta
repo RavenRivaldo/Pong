@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f5f97d343e4cb6e41b28d1f6409bdc62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {fileID: 3077076200350193682, guid: 00507f5e2f72a1543875453102158598,
+      type: 3}
+  - player2: {fileID: 4611824619304352639, guid: 4c5ab32f5405add40a533901df4bc4a0,
+      type: 3}
+  - ball: {fileID: 8147460427631602424, guid: 6118e32325cf28c4a8269952cbea27b2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
